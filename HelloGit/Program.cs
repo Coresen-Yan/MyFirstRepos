@@ -9,8 +9,6 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
-            //test
-            //this is master
             //child2
         }
     }
