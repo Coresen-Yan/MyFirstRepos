@@ -9,7 +9,7 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
-            //child01  //1219
+            //child01  //
         }
     }
 }
